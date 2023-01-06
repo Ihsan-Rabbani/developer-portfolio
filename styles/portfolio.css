@@ -87,6 +87,11 @@ main {
 
 /* about section styles */
 
+section {
+    margin-top: 130px;
+
+}
+
 .about {
     margin-top: 130px;
     background: #FFF8F3;
@@ -98,7 +103,7 @@ main {
 
 .section-title {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     font-weight: 700px;
     font-size: 35px;
 }
@@ -132,11 +137,6 @@ main {
 
 /* what i do styles */
 
-.what-i-do {
-    margin-top: 130px;
-
-}
-
 .skills-container {
     display: flex;
     gap: 24px;
@@ -160,4 +160,10 @@ main {
 .skill-description {
     font-size: 16px;
     color: #757575;
+}
+
+/* resume styles */
+
+.resume-section{
+
 }
